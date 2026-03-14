@@ -15,12 +15,12 @@ Not just a typical job board app!
 
 ## ✨ What Makes It Different
 Most platforms just list jobs. CareerHub goes further:  
-- 🔍 Smart Job Search — filter by title, location, salary, industry, and job type  
-- 📌 Saved Jobs & Searches — bookmark opportunities and revisit with ease  
-- 📈 Application History — track submissions and follow up intelligently  
-- 🧠 Career Coaching Tools — resume tips, interview prep, and growth strategies  
-- 🏢 Company Hub — transparency with About Us, Contact, and Privacy Policy
-- 📄 Web Policy — clear and accessible Terms of Service & Cookie Policy for user trust and compliance
+- 🔍 **Smart Job Search** — filter by title, location, salary, industry, and job type  
+- 📌 **Saved Jobs & Searches** — bookmark opportunities and revisit with ease  
+- 📈 **Application History** — track submissions and follow up intelligently  
+- 🧠 **Career Coaching Tools** — resume tips, interview prep, and growth strategies  
+- 🏢 **Company Hub** — transparency with About Us, Contact, and Privacy Policy
+- 📄 **Web Policy** — clear and accessible Terms of Service & Cookie Policy for user trust and compliance
 
 ## 🚀 Why Choose JeffreyWoo CareerHub
 Whether you're exploring new roles or hiring top talent, **JeffreyWoo CareerHub** is your AI-powered partner for career success. It’s fast, intuitive, and built for real-world hiring needs.
@@ -32,20 +32,20 @@ Whether you're exploring new roles or hiring top talent, **JeffreyWoo CareerHub*
 4. 	Connect with companies and explore their profiles
 
 ## 🤖 Tech Stack
-- Language — TypeScript, HTML  
-- Framework — Node.js / Express  
-- Database — MongoDB / Firebase  
-- AI Integration — Google Gemini API (Flash & Pro models)  
-- Deployment — Cloud-ready, secure, and scalable
+- **Language** — TypeScript, HTML  
+- **Framework** — Node.js / Express  
+- **Database** — MongoDB / Firebase  
+- **AI Integration** — Google Gemini API (Flash & Pro models)  
+- **Deployment** — Cloud-ready, secure, and scalable
 
 ## 🧠 Career Matching Logic
-- Resume Parsing & Keyword Matching  
+- **Resume Parsing & Keyword Matching**  
 Uses Natural Language Processing (NLP) to extract skills, experience, and match with job descriptions  
-- Job Fit Scoring  
+- **Job Fit Scoring**  
 Calculates compatibility based on role requirements, location, and user preferences  
-- Application Tracking  
+- **Application Tracking**  
 Logs submission dates, statuses, and reminders for follow-up  
-- Behavioral Insights  
+- **Behavioral Insights**  
 Suggests roles based on browsing history, saved jobs, and interaction patterns
 
 ## 💡 Transformation Impact
