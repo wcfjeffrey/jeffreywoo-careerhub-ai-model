@@ -20,6 +20,7 @@ Most platforms just list jobs. CareerHub goes further:
 - 📈 Application History — track submissions and follow up intelligently  
 - 🧠 Career Coaching Tools — resume tips, interview prep, and growth strategies  
 - 🏢 Company Hub — transparency with About Us, Contact, and Privacy Policy
+- 📄 Web Policy — clear and accessible Terms of Service & Cookie Policy for user trust and compliance
 
 ## 🚀 Why Choose JeffreyWoo CareerHub
 Whether you're exploring new roles or hiring top talent, **JeffreyWoo CareerHub** is your AI-powered partner for career success. It’s fast, intuitive, and built for real-world hiring needs.
