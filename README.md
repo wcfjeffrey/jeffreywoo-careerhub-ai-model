@@ -40,7 +40,7 @@ Whether you're exploring new roles or hiring top talent, **JeffreyWoo CareerHub*
 
 ## 🧠 Career Matching Logic
 - Resume Parsing & Keyword Matching  
-Uses NLP to extract skills, experience, and match with job descriptions  
+Uses Natural Language Processing (NLP) to extract skills, experience, and match with job descriptions  
 - Job Fit Scoring  
 Calculates compatibility based on role requirements, location, and user preferences  
 - Application Tracking  
@@ -48,7 +48,7 @@ Logs submission dates, statuses, and reminders for follow-up
 - Behavioral Insights  
 Suggests roles based on browsing history, saved jobs, and interaction patterns
 
-💡 Transformation Impact
+## 💡 Transformation Impact
 This project demonstrates how AI can reshape career development:  
 - Digitizing job search and recruitment workflows  
 - Empowering users with personalized career insights  
