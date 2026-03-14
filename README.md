@@ -60,7 +60,7 @@ This project demonstrates how AI can reshape career development:
 - Full-stack architecture for career platforms  
 - AI integration for resume parsing and job matching  
 - Secure handling of user data and application history  
-- Scalable backend with Express and MongoDB  
+- Scalable backend with Express and MongoDB / Firebase  
 - User Interface (UI) / User Experience (UX) design for intuitive job search and tracking
 
 ## ⚖️ Disclaimer
