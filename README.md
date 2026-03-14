@@ -22,9 +22,9 @@ Most platforms just list jobs. CareerHub goes further:
 - 🏢 **Company Hub** — transparency with About Us, Contact, and Privacy Policy
 - 📄 **Web Policy** — clear and accessible Terms of Service & Cookie Policy for user trust and compliance
 - 🌐 **Web Crawling & Social Integration** — 
-     - Can pull jobs directly from company websites, LinkedIn, or other social media  
-     - Captures opportunities that may never appear on traditional boards  
-     - Potentially broader coverage, especially for niche or fast-moving roles
+     - can pull jobs directly from company websites, LinkedIn, or other social media  
+     - captures opportunities that may never appear on traditional boards  
+     - potentially broader coverage, especially for niche or fast-moving roles
 
 ## 🚀 Why Choose JeffreyWoo CareerHub
 Whether you're exploring new roles or hiring top talent, **JeffreyWoo CareerHub** is your AI-powered partner for career success. It’s fast, intuitive, and built for real-world hiring needs.
