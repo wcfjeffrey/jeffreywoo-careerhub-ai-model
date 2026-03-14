@@ -61,7 +61,7 @@ This project demonstrates how AI can reshape career development:
 - AI integration for resume parsing and job matching  
 - Secure handling of user data and application history  
 - Scalable backend with Express and MongoDB  
-- UI/UX design for intuitive job search and tracking
+- User Interface (UI) / User Experience (UX) design for intuitive job search and tracking
 
 ## ⚖️ Disclaimer
 **JeffreyWoo CareerHub** provides AI-driven career insights for informational purposes only. It does not guarantee job placement or hiring outcomes. Please consult professional recruiters or career advisors for personalized guidance.
