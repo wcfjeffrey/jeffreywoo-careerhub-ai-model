@@ -64,7 +64,7 @@ This project demonstrates how AI can reshape career development:
 - User Interface (UI) / User Experience (UX) design for intuitive job search and tracking
 
 ## ⚖️ Disclaimer
-**JeffreyWoo CareerHub** provides AI-driven career insights for informational purposes only. It does not guarantee job placement or hiring outcomes. Please consult professional recruiters or career advisors for personalized guidance.
+**JeffreyWoo CareerHub** provides AI-driven career insights for informational purposes only. It does not guarantee job placement or hiring outcomes. For personalized career guidance, please consult qualified human resources professionals, recruiters, headhunters, or certified career advisors.
 
 ## ⚙️ Run Locally
 **Prerequisites:** Node.js
