@@ -107,4 +107,4 @@ This project demonstrates how AI can reshape career development:
   <img src="assets/JeffreyWoo_CareerHub24.png" alt="JeffreyWoo_CareerHub24" width="1200" height="1200" /> 	
   <img src="assets/JeffreyWoo_CareerHub25.png" alt="JeffreyWoo_CareerHub25" width="1200" height="1200" /> 		
 
-  Disclaimer: Source code is intentionally excluded to maintain security, protect proprietary logic, and uphold responsible‑AI development principles.
+  **Note:** Source code is intentionally excluded to maintain security, protect proprietary logic, and uphold responsible‑AI development principles.
