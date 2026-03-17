@@ -38,7 +38,7 @@ Whether you're exploring new roles or hiring top talent, **JeffreyWoo CareerHub*
 ## 🤖 Tech Stack
 - **Language** — TypeScript, HTML  
 - **Framework** — Node.js / Express  
-- **Database** — MongoDB / Firebase  
+- **Database** — Firebase  
 - **AI Integration** — Google Gemini API (Flash & Pro models)  
 - **Deployment** — Cloud-ready, secure, and scalable
 
@@ -64,7 +64,7 @@ This project demonstrates how AI can reshape career development:
 - Full-stack architecture for career platforms  
 - AI integration for resume parsing and job matching  
 - Secure handling of user data and application history  
-- Scalable backend with Express and MongoDB / Firebase  
+- Scalable backend with Express and Firebase  
 - User Interface (UI) / User Experience (UX) design for intuitive job search and tracking
 
 ## ⚖️ Disclaimer
