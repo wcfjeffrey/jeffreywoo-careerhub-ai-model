@@ -13,18 +13,22 @@ Not just a typical job board app!
 - Enhance employer branding and engagement  
 - Support sustainable career growth and retention
 
+**Note:** **JeffreyWoo CareerHub** is designed as a strategic asset for HR. By providing transparent and consistent company information, it does more than inform job seekers—it actively builds and reinforces employer brand equity. This creates a foundation for systematic Talent Relationship Management (TRM), allowing organizations to cultivate ongoing relationships with potential candidates, nurture passive talent, and improve the quality of hire over time.
+
 ## ✨ What Makes It Different
 Most platforms just list jobs. CareerHub goes further:  
 - 🔍 **Smart Job Search** — filter by title, location, salary, industry, and job type  
 - 📌 **Saved Jobs & Searches** — bookmark opportunities and revisit with ease  
 - 📈 **Application History** — track submissions and follow up intelligently  
 - 🧠 **Career Coaching Tools** — resume tips, interview prep, and growth strategies  
-- 🏢 **Company Hub** — transparency with About Us, Contact, and Privacy Policy
-- 📄 **Web Policy** — clear and accessible Terms of Service & Cookie Policy for user trust and compliance
+- 🏢 **Company Hub** — transparency with About Us, Contact, and Privacy Policy  
 - 🌐 **Web Crawling & Social Integration** — 
      - can pull jobs directly from company websites, LinkedIn, or other social media  
      - captures opportunities that may never appear on traditional boards  
-     - potentially broader coverage, especially for niche or fast-moving roles
+     - potentially broader coverage, especially for niche or fast-moving roles  
+- 📄 **Web Policy** — clear and accessible Terms of Service & Cookie Policy for user trust and compliance
+
+**Note:** Beyond standard policies, the platform is built with a "privacy-first" architecture. Data handling practices are aligned with the principles of Hong Kong's Personal Data (Privacy) Ordinance (PDPO) , which governs the collection, use, and retention of personal data. This commitment to data ethics and compliance provides confidence for both HR and legal teams, ensuring that candidate data is managed responsibly, transparently, and in full accordance with local regulatory requirements.
 
 ## 🚀 Why Choose JeffreyWoo CareerHub
 Whether you're exploring new roles or hiring top talent, **JeffreyWoo CareerHub** is your AI-powered partner for career success. It’s fast, intuitive, and built for real-world hiring needs.
