@@ -2,6 +2,8 @@
   <img src="assets/JeffreyWoo_CareerHub.png" alt="JeffreyWoo_CareerHubBanner" width="1200" height="1000" />
 </div>
 
+## 📊 Overview
+
 Not just a typical job board app!
 
 **JeffreyWoo CareerHub** is an AI-powered career consultancy and talent acquisition platform designed to help job seekers and employers connect meaningfully. By combining intelligent search, resume analysis, and personalized career guidance, it empowers users to take control of their professional journey.
