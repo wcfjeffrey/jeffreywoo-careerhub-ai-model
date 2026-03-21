@@ -70,6 +70,11 @@ This project demonstrates how AI can reshape career development:
 - Secure handling of user data and application history  
 - Scalable backend with Express and Firebase  
 - User Interface (UI) / User Experience (UX) design for intuitive job search and tracking
+- Automated job posting extraction via web scraping (company sites, LinkedIn, social platforms).
+- API and social media integration (LinkedIn, Twitter, others) for real‑time opportunities.
+- Aggregation of diverse job data sources with trend and niche role analysis.
+- Real-time monitoring of fast-moving roles with alert system for new postings.
+- Identification of hidden opportunities beyond traditional job board.
 
 ## ⚖️ Disclaimer
 **JeffreyWoo CareerHub** provides AI-driven career insights for informational purposes only. It does not guarantee job placement or hiring outcomes. For personalized career guidance, please consult qualified human resources professionals, recruiters, headhunters, or certified career advisors.
