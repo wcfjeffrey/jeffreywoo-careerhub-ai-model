@@ -11,7 +11,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)
 
-Not just a typical job board app!
+> **Not just a typical job board app!**
 
 **JeffreyWoo CareerHub** is an AI-powered career consultancy and talent acquisition platform designed to help job seekers and employers connect meaningfully. By combining intelligent search, resume analysis, and personalized career guidance, it empowers users to take control of their professional journey.
 
