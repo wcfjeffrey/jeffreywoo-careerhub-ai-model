@@ -4,6 +4,13 @@
 
 ## 📊 Overview
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)
+
 Not just a typical job board app!
 
 **JeffreyWoo CareerHub** is an AI-powered career consultancy and talent acquisition platform designed to help job seekers and employers connect meaningfully. By combining intelligent search, resume analysis, and personalized career guidance, it empowers users to take control of their professional journey.
@@ -43,7 +50,7 @@ Whether you're exploring new roles or hiring top talent, **JeffreyWoo CareerHub*
 
 ## 🤖 Tech Stack
 - **Language** — TypeScript, HTML  
-- **Framework** — Node.js / Express  
+- **Framework** — Node.js  
 - **Database** — Firebase  
 - **AI Integration** — Google Gemini API (Flash & Pro models)  
 - **Deployment** — Cloud-ready, secure, and scalable
