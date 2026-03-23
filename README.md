@@ -129,3 +129,10 @@ This project demonstrates how AI can reshape career development:
   <img src="assets/JeffreyWoo_CareerHub25.png" alt="JeffreyWoo_CareerHub25" width="1200" height="1200" /> 		
 
   **⚠️Note:** Source code is intentionally excluded to maintain security, protect proprietary logic, and uphold responsible‑AI development principles.
+
+## 👤 About the Author
+Jeffrey Woo — Finance Manager | Strategic FP&A, AI Automation & Cost Optimization | MBA | FCCA | CTA | FTIHK | SAP Financial Accounting (FI) Certified Application Associate | Xero Advisor Certified
+
+📧 Email: jeffreywoocf@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/wcfjeffrey/  
+🐙 GitHub: https://github.com/wcfjeffrey/
