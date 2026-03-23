@@ -37,7 +37,7 @@ Most platforms just list jobs. CareerHub goes further:
      - potentially broader coverage, especially for niche or fast-moving roles  
 - 📄 **Web Policy** — clear and accessible Terms of Service & Cookie Policy for user trust and compliance
 
-**Note:** Beyond standard policies, the platform is built with a "privacy-first" architecture. Data handling practices are aligned with the principles of Hong Kong's Personal Data (Privacy) Ordinance (PDPO) , which governs the collection, use, and retention of personal data. This commitment to data ethics and compliance provides confidence for both HR and legal teams, ensuring that candidate data is managed responsibly, transparently, and in full accordance with local regulatory requirements.
+**⚠️Note:** Beyond standard policies, the platform is built with a "privacy-first" architecture. Data handling practices are aligned with the principles of Hong Kong's Personal Data (Privacy) Ordinance (PDPO) , which governs the collection, use, and retention of personal data. This commitment to data ethics and compliance provides confidence for both HR and legal teams, ensuring that candidate data is managed responsibly, transparently, and in full accordance with local regulatory requirements.
 
 ## 🚀 Why Choose JeffreyWoo CareerHub
 Whether you're exploring new roles or hiring top talent, **JeffreyWoo CareerHub** is your AI-powered partner for career success. It’s fast, intuitive, and built for real-world hiring needs.
@@ -128,4 +128,4 @@ This project demonstrates how AI can reshape career development:
   <img src="assets/JeffreyWoo_CareerHub24.png" alt="JeffreyWoo_CareerHub24" width="1200" height="1200" /> 	
   <img src="assets/JeffreyWoo_CareerHub25.png" alt="JeffreyWoo_CareerHub25" width="1200" height="1200" /> 		
 
-  **Note:** Source code is intentionally excluded to maintain security, protect proprietary logic, and uphold responsible‑AI development principles.
+  **⚠️Note:** Source code is intentionally excluded to maintain security, protect proprietary logic, and uphold responsible‑AI development principles.
