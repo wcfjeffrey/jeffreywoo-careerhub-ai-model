@@ -50,7 +50,9 @@ Whether you're exploring new roles or hiring top talent, **JeffreyWoo CareerHub*
 
 ## 🤖 Tech Stack
 - **Language** — TypeScript, HTML  
-- **Framework** — Node.js  
+- **Framework** — React
+- **UI** — Standard React components, styled via JSX/TSX
+- **Runtime** — Node.js
 - **Database** — Firebase  
 - **AI Integration** — Google Gemini API (Flash & Pro models)  
 - **Deployment** — Cloud-ready, secure, and scalable
