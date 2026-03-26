@@ -24,6 +24,14 @@
 
 **Note:** **JeffreyWoo CareerHub** is designed as a strategic asset for HR. By providing transparent and consistent company information, it does more than inform job seekers—it actively builds and reinforces employer brand equity. This creates a foundation for systematic Talent Relationship Management (TRM), allowing organizations to cultivate ongoing relationships with potential candidates, nurture passive talent, and improve the quality of hire over time.
 
+## 💡 Transformation Impact
+This project demonstrates how AI can reshape career development:  
+- Digitizing job search and recruitment workflows  
+- Empowering users with personalized career insights  
+- Enhancing transparency between candidates and employers  
+- Driving smarter hiring decisions with data-backed matching  
+- Promoting inclusive and sustainable career growth
+
 ## ✨ What Makes It Different
 Most platforms just list jobs. CareerHub goes further:  
 - 🔍 **Smart Job Search** — filter by title, location, salary, industry, and job type  
@@ -42,21 +50,6 @@ Most platforms just list jobs. CareerHub goes further:
 ## 🚀 Why Choose JeffreyWoo CareerHub
 Whether you're exploring new roles or hiring top talent, **JeffreyWoo CareerHub** is your AI-powered partner for career success. It’s fast, intuitive, and built for real-world hiring needs.
 
-## 📦 Getting Started
-1. 	Search for jobs using filters or keywords  
-2. 	Save jobs and track applications  
-3. 	Use coaching tools to refine your resume and interview skills  
-4. 	Connect with companies and explore their profiles
-
-## 🤖 Tech Stack
-- **Language** — TypeScript, HTML  
-- **Framework** — React
-- **UI** — Standard React components, styled via TSX
-- **Runtime** — Node.js
-- **Database** — Firebase  
-- **AI Integration** — Google Gemini API (Flash & Pro models)  
-- **Deployment** — Cloud-ready, secure, and scalable
-
 ## 🧠 Career Matching Logic
 - **Resume Parsing & Keyword Matching**  
 Uses Natural Language Processing (NLP) to extract skills, experience, and match with job descriptions  
@@ -66,14 +59,6 @@ Calculates compatibility based on role requirements, location, and user preferen
 Logs submission dates, statuses, and reminders for follow-up  
 - **Behavioral Insights**  
 Suggests roles based on browsing history, saved jobs, and interaction patterns
-
-## 💡 Transformation Impact
-This project demonstrates how AI can reshape career development:  
-- Digitizing job search and recruitment workflows  
-- Empowering users with personalized career insights  
-- Enhancing transparency between candidates and employers  
-- Driving smarter hiring decisions with data-backed matching  
-- Promoting inclusive and sustainable career growth
 
 ## ⭐ Skills Strengthened
 - Full-stack architecture for career platforms  
@@ -87,8 +72,20 @@ This project demonstrates how AI can reshape career development:
 - Real-time monitoring of fast-moving roles with alert system for new postings.
 - Identification of hidden opportunities beyond traditional job board.
 
-## ⚖️ Disclaimer
-**JeffreyWoo CareerHub** provides AI-driven career insights for informational purposes only. It does not guarantee job placement or hiring outcomes. For personalized career guidance, please consult qualified human resources professionals, recruiters, headhunters, or certified career advisors.
+## 🤖 Tech Stack
+- **Language** — TypeScript, HTML  
+- **Framework** — React
+- **UI** — Standard React components, styled via TSX
+- **Runtime** — Node.js
+- **Database** — Firebase  
+- **AI Integration** — Google Gemini API (Flash & Pro models)  
+- **Deployment** — Cloud-ready, secure, and scalable
+
+## 📦 Getting Started
+1. 	Search for jobs using filters or keywords  
+2. 	Save jobs and track applications  
+3. 	Use coaching tools to refine your resume and interview skills  
+4. 	Connect with companies and explore their profiles
 
 ## ⚙️ Run Locally
 **Prerequisites:** Node.js
@@ -129,6 +126,9 @@ This project demonstrates how AI can reshape career development:
   <img src="assets/JeffreyWoo_CareerHub25.png" alt="JeffreyWoo_CareerHub25" width="1200" height="1200" /> 		
 
   **⚠️Note:** Source code is intentionally excluded to maintain security, protect proprietary logic, and uphold responsible‑AI development principles.
+
+## ⚖️ Disclaimer
+**JeffreyWoo CareerHub** provides AI-driven career insights for informational purposes only. It does not guarantee job placement or hiring outcomes. For personalized career guidance, please consult qualified human resources professionals, recruiters, headhunters, or certified career advisors.
 
 ## 👤 About the Author
 Jeffrey Woo — Finance Manager | Strategic FP&A, AI Automation & Cost Optimization | MBA | FCCA | CTA | FTIHK | SAP Financial Accounting (FI) Certified Application Associate | Xero Advisor Certified
