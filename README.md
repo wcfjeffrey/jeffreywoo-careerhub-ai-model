@@ -129,7 +129,13 @@ Suggests roles based on browsing history, saved jobs, and interaction patterns
   **⚠️Note:** Source code is intentionally excluded to maintain security, protect proprietary logic, and uphold responsible‑AI development principles.
 
 ## ⚖️ Disclaimer
-**JeffreyWoo CareerHub** provides AI-driven career insights for informational purposes only. It does not guarantee job placement or hiring outcomes. For personalized career guidance, please consult qualified human resources professionals, recruiters, headhunters, or certified career advisors.
+**JeffreyWoo CareerHub** provides AI-driven career insights for informational, educational, and demonstration purposes only. It does not constitute professional career counselling, job placement advice, or employment guarantees.
+
+AI‑generated career suggestions, resume feedback, or job recommendations may be inaccurate, incomplete, or unsuitable for your specific situation. The model is not a substitute for qualified career advisors, human resources professionals, or industry mentors.
+
+Always verify career information with trusted sources and human resources professionals, recruiters, headhunters, or certified career advisors before making significant career decisions. The developer assumes no liability for any lost opportunities, employment issues, or damages arising from the use of this software.
+
+Use at your own risk.
 
 ## 👤 About the Author
 Jeffrey Woo — Finance Manager | Strategic FP&A, AI Automation & Cost Optimization | MBA | FCCA | CTA | FTIHK | SAP Financial Accounting (FI) Certified Application Associate | Xero Advisor Certified
